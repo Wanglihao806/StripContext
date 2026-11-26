@@ -1,0 +1,24 @@
+{
+  "KSDD2": {
+    "url": "https://www.vicos.si/resources/kolektorsdd2/"
+  },
+  "KSDD1": {
+    "url": "https://www.vicos.si/resources/kolektorsdd/",
+    "fold": 0,
+    "original": 399,
+    "unique_pixel_arrays": 383,
+    "excluded_train_workpiece": "kos34",
+    "excluded_views": 8
+  },
+  "SD900": {
+    "url": "https://github.com/SongGuorong/EDRNet",
+    "commit": "776c590eb90e1eef1c5cf0ea351bb66be5690dc3"
+  },
+  "MSD": {
+    "url": "https://www.kaggle.com/datasets/girish17019/mobile-phone-defect-segmentation-dataset",
+    "version": 1,
+    "archive_sha256": "86bd0b9fc674e57ffbf02370298b07b82e22138a1b8fa6828134beee6e23650c",
+    "original": "https://github.com/jianzhang96/MSD",
+    "original_byte_identity_verified": false
+  }
+}

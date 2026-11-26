@@ -1,0 +1,28 @@
+{
+  "FastSDNet": {
+    "repository": "https://github.com/Wanglaoban3/Fast-SDNet",
+    "revision": "18898e64ca74a25981aebaf0312bb6e82b45772b"
+  },
+  "comparators": [
+    {
+      "url": "https://raw.githubusercontent.com/houqb/SPNet/5e97da3d055449b7a159cd1d4f333c1cc3b6f8d6/models/resnet.py",
+      "commit": "5e97da3d055449b7a159cd1d4f333c1cc3b6f8d6",
+      "sha256": "5969fe449aca9cf47eaa8c95f72542934d157d0a3a1e1f122ccc24383d8b0f3c"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/houqb/SPNet/5e97da3d055449b7a159cd1d4f333c1cc3b6f8d6/LICENSE",
+      "commit": "5e97da3d055449b7a159cd1d4f333c1cc3b6f8d6",
+      "sha256": "16d06cd1ba34a6de7487b7415aef286d79c1443385535c8115013d0aa05667e5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/houqb/CoordAttention/7619bea9acbe260b3793833cc78cef3f124c8112/coordatt.py",
+      "commit": "7619bea9acbe260b3793833cc78cef3f124c8112",
+      "sha256": "c40cc881d0a23b64c886274a9d8df7d13f04b6ec4fc935c3b281a82998f9ebfc"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/houqb/CoordAttention/7619bea9acbe260b3793833cc78cef3f124c8112/LICENSE",
+      "commit": "7619bea9acbe260b3793833cc78cef3f124c8112",
+      "sha256": "263948396d6a475a6f473644f223d1f78c499ae95dd89934db59fd7b62782e52"
+    }
+  ]
+}
